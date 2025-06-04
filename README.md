@@ -22,4 +22,5 @@ This Jupyter notebook demonstrates **Neural Style Transfer (NST)**, an AI techni
 2. Open the notebook: `Neural_Style__Transfer.ipynb`
 3. Run each cell sequentially to see the content image transformed into the style of the style image.
 
+![image](https://github.com/user-attachments/assets/9cb842dc-fb29-49e2-8141-395a52079cc9)
 
