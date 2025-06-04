@@ -24,3 +24,6 @@ This Jupyter notebook demonstrates **Neural Style Transfer (NST)**, an AI techni
 
 ![image](https://github.com/user-attachments/assets/9cb842dc-fb29-49e2-8141-395a52079cc9)
 
+![image](https://github.com/user-attachments/assets/025c2eb2-3249-4a50-8ff3-0b9606fa489d)
+
+
